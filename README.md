@@ -1,11 +1,15 @@
 # scHOB
 scHOB (single-cell Human Organoid Bank) is a multi-omic single-cell database that consists of both scRNA-seq and scATAC-seq data on 10 kinds of widely-adopted human organoids (i.e., brain, lung, heart, eye, liver & bile duct, pancreas, intestine, kidney, and skin) spanning 1,366,380 cells with 67 main cell types in 385 samples across 83 distinct protocols.
 
+![Workflow of scHOB](https://github.com/mayunlong89/scHOB/blob/main/figures/Figure%201.png)
+
+ 
 The scHOB database has accessed online: https://schob.su-lab.org/
 
 Please cite: 
 1. Ma et al. Integrated analysis of single-cell transcriptomic and epigenomic atlas of organoids uncovers core regulomes of human diseases. bioRvix, 2023.
 2. Ma et al. Integration of human organoids single-cell transcriptomic profiles and human genetics repurposes critical cell type-specific drug targets for severe COVID-19. [Cell Proliferation, 2023, e13558](https://onlinelibrary.wiley.com/doi/full/10.1111/cpr.13558).
+
 
 
 
