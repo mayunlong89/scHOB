@@ -5,7 +5,7 @@ The scHOB database has accessed online: https://schob.su-lab.org/
 
 Please cite: 
 1. Ma et al. Integrated analysis of single-cell transcriptomic and epigenomic atlas of organoids uncovers core regulomes of human diseases. bioRvix, 2023.
-2. Ma et al. Integration of human organoids single-cell transcriptomic profiles and human genetics repurposes critical cell type-specific drug targets for severe COVID-19. Cell Proliferation, 2023, e13558.
+2. Ma et al. Integration of human organoids single-cell transcriptomic profiles and human genetics repurposes critical cell type-specific drug targets for severe COVID-19. [Cell Proliferation, 2023, e13558](https://onlinelibrary.wiley.com/doi/full/10.1111/cpr.13558).
 
 
 
