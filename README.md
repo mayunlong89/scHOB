@@ -6,11 +6,12 @@ scHOB (single-cell Human Organoid Bank) is a multi-omic single-cell database tha
  
 The scHOB database has accessed online: https://schob.su-lab.org/
 
-Please cite: 
+# Citations
 1. Ma et al. Integrated analysis of single-cell transcriptomic and epigenomic atlas of organoids uncovers core regulomes of human diseases. bioRvix, 2023.
 2. Ma et al. Integration of human organoids single-cell transcriptomic profiles and human genetics repurposes critical cell type-specific drug targets for severe COVID-19. [Cell Proliferation, 2023, e13558](https://onlinelibrary.wiley.com/doi/full/10.1111/cpr.13558).
 
-
+# ctDRTF method
+This method is designed to prioritize cell type-specific TFs relevant to diseases of interest, see [Link](https://github.com/mayunlong89/ctDRTF)
 
 
 # Database construction and implementation
