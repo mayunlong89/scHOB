@@ -9,7 +9,7 @@ The scHOB database has accessed online: https://schob.su-lab.org/
 # Citations
 1. Ma et al., Polygenic network enrichment identifies cellular context-specific regulons relevant to diseases by integration of single-cell multiomic data, medRvix, 2024
 2. Ma et al., Sytematic dissection of pleiotropic loci and critical regulons in exhibitory neurons and microglia relevant to neuropsychiatric and ocular diseases, [Research Square](https://www.researchsquare.com/article/rs-4514542/v1), 2024.
-3. Ma et al. Integration of human organoids single-cell transcriptomic profiles and human genetics repurposes critical cell type-specific drug targets for severe COVID-19. [Cell Proliferation, 2024, e13558](https://onlinelibrary.wiley.com/doi/full/10.1111/cpr.13558), and see related [Github codes](https://github.com/mayunlong89/scHuman_organoids_COVID19).
+3. Ma et al. Integration of human organoids single-cell transcriptomic profiles and human genetics repurposes critical cell type-specific drug targets for severe COVID-19. [Cell Proliferation](https://onlinelibrary.wiley.com/doi/full/10.1111/cpr.13558), 2024, and see related [Github codes](https://github.com/mayunlong89/scHuman_organoids_COVID19).
 
 # ctDRTF method
 This method is designed to prioritize cell type-specific TFs relevant to diseases of interest, see [ctDRTF github](https://github.com/mayunlong89/ctDRTF)
