@@ -11,8 +11,12 @@ The scHOB database has accessed online: https://schob.su-lab.org/
 2. Ma et al., Sytematic dissection of pleiotropic loci and critical regulons in exhibitory neurons and microglia relevant to neuropsychiatric and ocular diseases, [Translational Psychiatry](https://rdcu.be/d7qof) 2025. For Preprint, please see the [Research Square](https://www.researchsquare.com/article/rs-4514542/v1), 2024.
 3. Ma et al. Integration of human organoids single-cell transcriptomic profiles and human genetics repurposes critical cell type-specific drug targets for severe COVID-19. [Cell Proliferation](https://onlinelibrary.wiley.com/doi/full/10.1111/cpr.13558), 2024, and see related [Github codes](https://github.com/mayunlong89/scHuman_organoids_COVID19).
 
-# ctDRTF method
-This method is designed to prioritize cell type-specific TFs relevant to diseases of interest, see [ctDRTF github](https://github.com/mayunlong89/ctDRTF)
+# scMORE method
+This method is designed to prioritize cell type-specific TF-regulons relevant to diseases of interest, see [scMORE github](https://github.com/mayunlong89/scMORE).
+
+
+# ctDRTF method (previous version of scMORE)
+ctDRTF is the older/legacy version of scMORE and is no longer maintained. The code is provided as is for reference only—use with caution. see [ctDRTF github](https://github.com/mayunlong89/ctDRTF). For up-to-date features, bug fixes, and support, please use scMORE instead. see [scMORE github](https://github.com/mayunlong89/scMORE).
 
 
 # Database construction and implementation
